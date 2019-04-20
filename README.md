@@ -8,3 +8,8 @@ This is just a back-up of the original Gibbet Project I do not own any of this c
 2) Make a folder called "working" and upload the files from this repo in that folder
 3) Drag one of the ".dat" or ".fat" files on to the unpack .exe
 4) Drag one of the ".dat" or ".fat" files to pack on the pack .exe
+# Sources:
+http://svn.gib.me/builds/disrupt/
+http://blog.gib.me/
+# Games:
+Watch Dogs
